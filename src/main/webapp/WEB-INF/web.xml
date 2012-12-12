@@ -25,7 +25,7 @@
 			<param-name>
                                  com.sun.jersey.config.property.packages
                         </param-name>
-			<param-value>com.mkyong.rest</param-value>
+			<param-value>com.techiekernel.rest</param-value>
 		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>

@@ -1,0 +1,9 @@
+--- 
+applications: 
+- framework: spring
+  runtime: java7
+  instances: 1
+  memory: 256M
+  name: Spring-Jersey
+  url: spring-jersey.${target-base}
+  path: .
